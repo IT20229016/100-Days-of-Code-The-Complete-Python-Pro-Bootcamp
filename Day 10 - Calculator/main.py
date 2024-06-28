@@ -1,4 +1,4 @@
-from replit import clear
+#from replit import clear
 
 from art import logo
 
@@ -41,7 +41,7 @@ def calculator():
       num1 = answer
     else:
       should_continue = False
-      clear()
+      #clear()  #only works with repile it
       calculator()
 
 calculator()
