@@ -40,8 +40,9 @@ def deal_card():
     return card
 
 #Hint 5: Deal the user and computer 2 cards each using deal_card() and append().
-#user_cards = []
+#user_cards = def_card.append
 #computer_cards = []
+
 
 #Hint 6: Create a function called calculate_score() that takes a List of cards as input 
 #and returns the score. 
