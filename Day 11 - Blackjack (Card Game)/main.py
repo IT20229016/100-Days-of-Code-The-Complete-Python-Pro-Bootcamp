@@ -19,7 +19,7 @@
 
 ##################### Hints #####################
 
-#Hint 1: Go to this website and try out the Blackjack game: 
+ #Hint 1: Go to this website and try out the Blackjack game: 
 #   https://games.washingtonpost.com/games/blackjack/
 #Then try out the completed Blackjack project here: 
 #   https://appbrewery.github.io/python-day11-demo/
